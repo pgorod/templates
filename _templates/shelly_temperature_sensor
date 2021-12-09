@@ -14,3 +14,5 @@ type: Temperature Sensor
 standard: global
 ---
 This is just an addon that needs [Shelly 1](shelly_1) or [Shelly 1PM](shelly_1PM) to work. Apply the template in the Shelly device!
+
+On newer versions of Tasmota, you may find that `DSB OUT` is now called `DS18x20_o`.
